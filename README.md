@@ -1,5 +1,6 @@
-![image](https://github.com/BMaina3107/StrathVueApp./assets/159436938/723f4e8b-ed7e-4d74-805c-7527258cb87c)# StrathVueApp
-
+![image](https://github.com/BMaina3107/StrathVueApp./assets/159436938/723f4e8b-ed7e-4d74-805c-7527258cb87c)
+# StrathVueApp
+Link to live site: https://strathvueapp-m0fg.onrender.com
 This application allows students in a university to view the different courses, events and partnerships offered. The app allows students to register for a course and view their schedules 
 ## Recommended IDE Setup
 
